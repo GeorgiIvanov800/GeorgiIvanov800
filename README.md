@@ -14,7 +14,7 @@ Software University (2022-2025) - Professional degree in Software Engineering Ja
   *Impact:* labeling errors ≈ 0; −15–20 min/order; full traceability.  
   Repo: 👉 <https://github.com/GeorgiIvanov800/ruest-team-manager>
 
-Technologies and tools
+**Technologies and tools**
 javascript
 
 typescript
