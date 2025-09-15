@@ -1,5 +1,3 @@
-👋 Introduction & Bio
-
 # Hi, I'm Georgi 👋
 
 **Junior Java/Full-Stack** — I build simple, reliable software for real workflows.  
