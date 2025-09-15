@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Introduction & Bio
 
-<!--
-**GeorgiIvanov800/GeorgiIvanov800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Georgi 👋
 
-Here are some ideas to get you started:
+**Junior Java/Full-Stack** — I build simple, reliable software for real workflows.  
+Stack: Spring Boot · Vue 3/TypeScript · PostgreSQL · Docker/Podman · Keycloak · Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education
+Software University (2022-2025) - Professional degree in Software Engineering Java Full Stack Developer (6.00/6.00 GPA)
+
+🔭 Projects
+ **RTM – Print Sleeve Management System**  
+  On-prem web app: print-set search, automatic A5 labels, admin/archive, traceability.  
+  *Impact:* labeling errors ≈ 0; −15–20 min/order; full traceability.  
+  Repo: 👉 <https://github.com/GeorgiIvanov800/ruest-team-manager>
+
+Technologies and tools
+javascript
+
+typescript
+
+java
+
+spring
+
+vue
+
+mysql
+
+postgresql
+
+html
+
+css
+
+vuetify
+
+git
+
+github
+
+gitlab
+
+keycloak
+
+linux
